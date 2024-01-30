@@ -1,7 +1,3 @@
-# chat
-    # usuario entrou no chat
-    # Mensagens do usuário
-
 import flet as ft
 
 def main(pagina): 
